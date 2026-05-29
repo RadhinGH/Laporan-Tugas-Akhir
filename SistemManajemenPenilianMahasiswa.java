@@ -1,4 +1,3 @@
-package Testing;
 
 import java.io.File;
     import java.io.PrintWriter;
