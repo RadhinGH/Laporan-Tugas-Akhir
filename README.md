@@ -4,7 +4,6 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-Console-blue?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 
 ---
@@ -63,33 +62,6 @@
 
 ---
 
-## 🧠 Algoritma & Konsep yang Diterapkan
-
-```
-✔ Sequential Search     — Pencarian nama dan prodi
-✔ Binary Search         — Pencarian ID mahasiswa
-✔ Quick Sort            — Pengurutan data
-✔ File Handling         — Penyimpanan dengan File, Scanner, PrintWriter
-✔ Object Oriented (OOP) — Class Mahasiswa, enkapsulasi, modularisasi
-✔ Validasi Input        — Pengecekan tipe data, range nilai, duplikasi ID
-✔ Statistik Sederhana   — Rata-rata, persentase, distribusi grade
-```
-
----
-
-## 🗂️ Struktur Data
-
-```java
-class Mahasiswa {
-    String id;
-    String nama;
-    String prodi;
-    int nilai;
-    boolean aktif;
-}
-
-Mahasiswa[] dataMahasiswa = new Mahasiswa[200];
-```
 
 ---
 
