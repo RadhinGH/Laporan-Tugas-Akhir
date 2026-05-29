@@ -100,24 +100,13 @@ Mahasiswa[] dataMahasiswa = new Mahasiswa[200];
 
 ### Langkah-langkah
 
-**1. Clone atau download repository ini**
+**1. download repository ini**
 
-```bash
-git clone https://github.com/username/sistem-manajemen-nilai-mahasiswa.git
-cd sistem-manajemen-nilai-mahasiswa
-```
 
 **2. Compile program**
 
-```bash
-javac SistemManajemenPenilianMahasiswa.java
-```
 
 **3. Jalankan program**
-
-```bash
-java SistemManajemenPenilianMahasiswa
-```
 
 ---
 
@@ -132,22 +121,12 @@ java SistemManajemenPenilianMahasiswa
 
 ---
 
-## 📁 Struktur File
-
-```
-📦 sistem-manajemen-nilai-mahasiswa
- ┣ 📄 SistemManajemenPenilianMahasiswa.java   # Source code utama
- ┣ 📄 data.txt                                 # File penyimpanan data (auto-generated)
- ┗ 📄 README.md                                # Dokumentasi
-```
 
 ---
 
 ## 👨‍💻 Author
 
 **Firman Hidayat, Talitha Nailal Husna, Radhin Ramadhan Hendestian**
-
-> Project ini dibuat sebagai implementasi konsep algoritma dan struktur data dalam pemrograman Java berbasis console.
 
 ---
 
