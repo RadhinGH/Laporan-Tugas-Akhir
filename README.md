@@ -145,12 +145,9 @@ java SistemManajemenPenilianMahasiswa
 
 ## 👨‍💻 Author
 
-**Firman Hidayat**
+**Firman Hidayat, Talitha Nailal Husna, Radhin Ramadhan Hendestian**
 
 > Project ini dibuat sebagai implementasi konsep algoritma dan struktur data dalam pemrograman Java berbasis console.
 
 ---
 
-## 📄 Lisensi
-
-Proyek ini menggunakan lisensi [MIT](LICENSE).
